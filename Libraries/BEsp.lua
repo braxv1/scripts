@@ -1,5 +1,5 @@
 -- brax's esp library
--- Version: 1.1 (Auto Team Color Update)
+-- Version 1.1 
 
 local ESP = {
     Enabled = true,
